@@ -1,0 +1,83 @@
+neutral text: RT @Emolclause: #BREAKING:Police are investigating TWO NOOSES and several hate signs discovered at Mississippi State Capitol this morning a…
+Value 0.829
+neutralCounter: 1
+
+
+neutral text: RT @WTFAmerica123: 6 in 10, yes, 60% of Americans disapprove of racist narcissist pig Trump. Resign you unpopular ass! #MondayMotivation #T…
+Value 0.554
+neutralCounter: 2
+
+
+neutral text: RT @SteelTyton: The #economy is doing #awesome...but can #Trump do this?
+
+#WhyIsThisSoFunny 🤣🤣🤣
+
+#MAGA #KAG #TRUMP https://t.co/KZmUO306r9
+Value 1.0
+neutralCounter: 3
+
+
+neutral text: The top #news story of the day:
+
+"#Trump officials said that authorities had to respond with force after hundreds o… https://t.co/oex1GqUyuX
+Value 0.917
+neutralCounter: 4
+
+
+neutral text: Main story from @washingtonpost: https://t.co/HP15idCu0P
+
+#TearGassingChildren #Trump #News
+Value 1.0
+neutralCounter: 5
+
+
+negative text: RT @ActionTime: HEARTLESS #Trump Exploits Pure Horror of Violently Bullied Migrants For Political Gains #Retweet #Dems #Democrats #VoteBlue…
+Value 0.555
+negativeCounter: 1
+
+
+negative text: RT @ActionTime: HEARTLESS #Trump Exploits Pure Horror of Violently Bullied Migrants For Political Gains #Retweet #Dems #Democrats #VoteBlue…
+Value 0.555
+negativeCounter: 2
+
+
+negative text: RT @ActionTime: HEARTLESS #Trump Exploits Pure Horror of Violently Bullied Migrants For Political Gains #Retweet #Dems #Democrats #VoteBlue…
+Value 0.555
+negativeCounter: 3
+
+
+negative text: RT @ActionTime: HEARTLESS #Trump Exploits Pure Horror of Violently Bullied Migrants For Political Gains #Retweet #Dems #Democrats #VoteBlue…
+Value 0.555
+negativeCounter: 4
+
+
+positive text: #trump supporter https://t.co/OXVWdgsWH9
+Value 0.512
+positiveCounter: 1
+
+
+negative text: #winning the rhetorical war.
+Value 0.565
+negativeCounter: 5
+
+
+positive text: @gregolear Gotta love the winning. 
+
+BTW: FU #TRUMP
+Value 0.421
+positiveCounter: 2
+
+
+positive text: Yay
+Value 1.0
+positiveCounter: 3
+
+
+positive text: #Trump Sucks Fatballs in #Russia :D
+Value 0.383
+positiveCounter: 4
+
+
+positive text: #trump's #whitehouse, lol
+Value 0.583
+positiveCounter: 5

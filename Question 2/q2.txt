@@ -1,0 +1,10 @@
+Question 2 output:
+
+Accuracy of Decision Tree: 0.9550561797752809
+
+
+
+Accuracy of Naive Bayes: 0.8767123287671232
+
+
+

@@ -1,0 +1,21 @@
+Question 3 output:
+
+ALS Accuracy for rank  4 is 0.4299779511321005:                                 
+For rank 4 the RMSE is 0.9231332403370718     
+
+                                  
+ALS Accuracy for rank  8 is 0.4351860889412789:                                 
+For rank 8 the RMSE is 0.9135855166168644       
+
+                                
+ALS Accuracy for rank  12 is 0.43454289268132756:                               
+For rank 12 the RMSE is 0.912789363509993      
+
+                                 
+ALS Accuracy for rank  16 is 0.43555899260949976:                               
+For rank 16 the RMSE is 0.9121900779026978     
+
+                                 
+The best model was trained with rank  16
+
+
